@@ -9,6 +9,7 @@
     "classnames": "^2.5.1",
     "immer": "^10.0.3",
     "node-sass": "^9.0.0",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
